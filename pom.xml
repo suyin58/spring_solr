@@ -8,7 +8,7 @@
 	<name>search.solr</name>
 
 	<properties>
-		<spring.version>4.0.6.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<org.aspectj.aspectjrt.version>1.7.3</org.aspectj.aspectjrt.version>
 		<org.aspectj.aspectjweaver.version>1.7.3</org.aspectj.aspectjweaver.version>
 		<gson.version>2.2.4</gson.version>
